@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">EFI-890R - Display bezel</h3>
   <p align="center">
-    Instrument for Air Manager platform for non public use.
+    Instrument for Air Manager platform for personal entertainment / non-commercial use.
   </p>
 </div>
 
@@ -31,7 +31,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## License
-This project is not for public use.
+This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License. Commercial use is prohibited without prior written permission.
 
 ## Contact
 If you need to contact me, use any of the social network profiles linked from my GitHub. I usually reply within one day.
