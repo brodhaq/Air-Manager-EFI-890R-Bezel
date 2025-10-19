@@ -18,7 +18,7 @@ If there is no official Release version of this instrument available, it is usua
 Click **Code → Download ZIP**. The download will begin for a ZIP archive (e.g. xxxyyy.zip).
 When the download is finished, open the ZIP file and you will find a subfolder inside with a similar name.
 This subfolder should include the files <i>logic.lua</i>, a folder named <i>resources</i>, and possibly other files.
-Go to your <code>C:\Users\username\Air Manager\instruments\OPEN_DIRECTORY</code> and create a folder named <b>ef0e149d-dfcd-4eae-835d-c89c1793470a</b> (that is your Air Manager hash for this instrument). Copy all the files you just downloaded (<i>logic.lua</i>, the <i>resources</i> folder, etc.) directly into this hash folder. Then run Air Manager, which should immediately discover this new instrument.
+Go to your <code>C:\Users\username\Air Manager\instruments\OPEN_DIRECTORY</code> and create a folder named <b>57e4618f-c64a-4e0b-a5db-68dc65410090</b> (that is your Air Manager hash for this instrument). Copy all the files you just downloaded (<i>logic.lua</i>, the <i>resources</i> folder, etc.) directly into this hash folder. Then run Air Manager, which should immediately discover this new instrument.
 
 ## Contributing
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
