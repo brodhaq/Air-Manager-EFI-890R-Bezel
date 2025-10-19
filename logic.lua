@@ -1,0 +1,1 @@
+img_background=img_add_fullscreen("EFI_DU.png")
